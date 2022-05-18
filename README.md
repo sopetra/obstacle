@@ -16,7 +16,7 @@ Testiranje algoritma se postiže pokretanjem `test.m`.
 
 ## Licence
   
- [Cluster](https://github.com/sopetra/cluster) © 2022 by [Petra Sočo](https://github.com/sopetra) is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International][cc].
+ [Obstacle](https://github.com/sopetra/obstacle) © 2022 by [Petra Sočo](https://github.com/sopetra) is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International][cc].
 
 [![CC 4.0][cc-image]][cc]
 
